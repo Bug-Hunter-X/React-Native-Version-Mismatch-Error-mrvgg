@@ -1,0 +1,1 @@
+This error occurs when using a third-party library that expects a specific version of React Native, but your project uses a different version.  It can manifest in various ways, from cryptic runtime errors to build failures.  The root cause is a mismatch in dependencies.
